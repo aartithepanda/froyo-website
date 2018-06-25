@@ -12,6 +12,7 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif; }
 
 hr {
+  /*max-width: 50px;*/
   max-width: 50px;
   border-width: 3px;
   border-color: #ff66cc; }
@@ -36,7 +37,7 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
 .bg-primary {
-  background-color: #ff66cc !important; }
+  background-color: #e8416f !important; }
 
 .bg-dark {
   background-color: #212529 !important; }
@@ -227,6 +228,7 @@ header.masthead {
   border-color: #ff66cc; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #fff;
-    background-color: #ee4b28 !important; }
+    /*background-color: #ee4b28 !important; }*/
+    background-color: #e8416f !important; }
   .btn-primary:active, .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important; }
